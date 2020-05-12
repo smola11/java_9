@@ -6,6 +6,7 @@ Repository showing and describing Java 9 new features
 1. Java 9 REPL (JShell) - Java Shell
 2. Factory Methods for Immutable List, Set, Map and Map.Entry
 3. Private methods in Interfaces
+4. Java 9 Module System
 
 
 ### References:
