@@ -7,6 +7,8 @@ Repository showing and describing Java 9 new features
 2. Factory Methods for Immutable List, Set, Map and Map.Entry
 3. Private methods in Interfaces
 4. Java 9 Module System
+5. Process API Improvements
+6. Try With Resources Improvement
 
 
 ### References:
