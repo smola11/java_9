@@ -9,7 +9,8 @@ Repository showing and describing Java 9 new features
 4. Java 9 Module System
 5. Process API Improvements
 6. Try With Resources Improvement
-
+7. CompletableFuture API Improvements
+8. Reactive Streams
 
 ### References:
 - https://www.journaldev.com/13121/java-9-features-with-examples
